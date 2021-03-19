@@ -24,5 +24,6 @@ Hardware utilizado:
 * 1 Driver motor ponte-H L298N
 * 2 motores DC 3-6V
 * 2 Conversores DC-DC Lm2596 Regulador Tensão Step Down
-* 2 sensores infravermelho IR
-
+* 4 Bateria 18650 9800mah 4.2v
+* 1 Bateria 9 v
+* 1 Chassi de robô com esteiras pequeno Hammer SN 8900
