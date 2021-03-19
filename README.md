@@ -1,6 +1,8 @@
 # ROBOT_SUMO
 
-![https://github.com/Allcb/ROBOT_SUMO/blob/main/IMAGENS/V%202.0/we%20make%20robots.png]
+![image](https://user-images.githubusercontent.com/29762451/111837643-f5042300-88d6-11eb-803e-89624dbf821f.png)
+
+
 Este é o projeto para a implementação do hardware e software para um Robô Sumô. 
 O projeto foi iniciado e criado por Allan Carvalho para a competição de robôs na Universidade Anhanguera de Jacareí durante as duas edições:
 
