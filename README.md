@@ -13,7 +13,8 @@ V.1 in the second half of 2018
 V2 in the first half of 2019
 
 
-O código foi projetado em linguagem C, com acesso direto aos registradores do Arduino Uno, 
+O código foi projetado em linguagem C, com acesso direto aos registradores do Arduino Uno,
+
 Para o controle do Robô utilizamos um controle de XBOX 360.
 
 Biblioteca utilizada:
