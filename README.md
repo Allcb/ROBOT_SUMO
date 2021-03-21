@@ -1,7 +1,5 @@
 # ROBOT_SUMO
 
-![image](https://user-images.githubusercontent.com/29762451/111837643-f5042300-88d6-11eb-803e-89624dbf821f.png)
-
 
 Este é o projeto para a implementação do hardware e software para um Robô Sumô. 
 O projeto foi iniciado e criado por Allan Carvalho para a competição de robôs na Universidade Anhanguera de Jacareí durante as duas edições:
@@ -33,3 +31,5 @@ Hardware utilizado:
 * 4 Bateria 18650 9800mah 4.2v
 * 1 Bateria 9 v
 * 1 Chassi de robô com esteiras pequeno Hammer SN 8900
+
+![image](https://user-images.githubusercontent.com/29762451/111837643-f5042300-88d6-11eb-803e-89624dbf821f.png)
